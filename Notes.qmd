@@ -1,0 +1,17 @@
+---
+title: "Notes"
+author: "Megan.qmd"
+format: html
+editor: visual
+---
+
+## Notes
+
+```{r}
+1 + 1
+```
+
+```{r}
+#| echo: false
+2 * 2
+```
